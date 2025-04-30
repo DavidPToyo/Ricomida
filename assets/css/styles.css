@@ -14,3 +14,9 @@
     width: 22%;
     
 }
+
+.recetas {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2%;
+}
