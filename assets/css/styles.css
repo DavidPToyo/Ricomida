@@ -21,6 +21,12 @@
     padding-top: 2%;
 }
 
+.newsletter {
+    background-color: #DC3545;
+    color: #fff;
+}
+
 footer {
+    background-color: #373A3C;
     color: #fff
 }
