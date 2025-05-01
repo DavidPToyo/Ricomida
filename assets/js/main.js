@@ -4,3 +4,4 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 $( "#boton1" ).on( "click", function() {
   alert( "El correo fue enviado correctamente..." );
 } );
+
