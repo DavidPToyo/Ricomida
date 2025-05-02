@@ -7,4 +7,9 @@ $( "#boton1" ).on( "click", function() {
 
 $( "h5" ).on( "dblclick", function() {
   $(this).css( "color", "red" );
+
 } );
+
+$( ".card-title" ).click(function(){
+  $( ".card-text" ).toggle()
+})
