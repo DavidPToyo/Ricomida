@@ -5,3 +5,6 @@ $( "#boton1" ).on( "click", function() {
   alert( "El correo fue enviado correctamente..." );
 } );
 
+$( "h5" ).on( "dblclick", function() {
+  $(this).css( "color", "red" );
+} );
