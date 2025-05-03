@@ -10,6 +10,6 @@ $( "h5" ).on( "dblclick", function() {
 
 } );
 
-$( ".card-title" ).click(function(){
+$( ".card-titulo" ).click(function(){
   $( ".card-text" ).toggle()
 })
