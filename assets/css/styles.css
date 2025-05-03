@@ -103,7 +103,6 @@ h4 {
 .newsletter {
     background-color: #DC3545;
     color: #fff;
-    height: 534px;
 }
 
 h3 {
@@ -123,7 +122,8 @@ span {
     font-size: 15pt;
 }
 .texton {
-    padding-top: 10%;
+    align-content: center;
+    padding: 10%;
 }
 
 #boton1 {
@@ -131,6 +131,10 @@ span {
 }
 
 footer {
+    font-family: Lobster;
+    font-size: 37pt;
+    height: 10%;
     background-color: #373A3C;
     color: #fff
+
 }
