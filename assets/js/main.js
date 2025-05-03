@@ -11,5 +11,5 @@ $( "h5" ).on( "dblclick", function() {
 } );
 
 $( ".card-titulo" ).click(function(){
-  $( ".card-text" ).toggle()
+  $( ".card-text1" ).toggle()
 })
