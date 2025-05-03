@@ -17,10 +17,6 @@
     font-size: 16pt;
 }
 
-.pizza {
-    size: 2pt 2pt 2pt 2pt;
-}
-
 h1 {
     font-family: Cabin;
     font-weight: 700;
@@ -33,9 +29,17 @@ h1 {
 }
 
 hr  {
+    background-color: black;
     height: 2pt;
     opacity: 100%;
 }
+
+.min {
+    font-family: Cabin;
+    font-weight: 700;
+    font-size: 20pt;
+}
+
 .carousel-inner {
     display: flex;
     flex-direction: column;
