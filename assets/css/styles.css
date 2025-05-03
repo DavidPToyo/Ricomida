@@ -10,6 +10,12 @@
 .navbar-brand {
     font-family: Lobster;
 }
+
+.nav-item {
+    font-family: Cabin;
+    font-weight: 400;
+    font-size: 16pt;
+}
 .carousel-inner {
     display: flex;
     flex-direction: column;
